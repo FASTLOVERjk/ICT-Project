@@ -297,9 +297,9 @@ body.dark-mode #banner{
 #headings #supporting {
   transform: translatex(85px);
 }
-  #grid {
-    position: relative;
-    top: 800px;
+#grid {
+    position: absolute;
+    top: 771px;
     display: grid;
     grid-template-columns: repeat(3, 1fr); 
     grid-gap: 0; 
@@ -309,6 +309,7 @@ body.dark-mode #banner{
     margin-left: 306px;
     margin-bottom: 0px;
     padding: 0px;
+    bottom: 200px;
 }
 
 [id^=pis]  {
