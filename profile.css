@@ -470,7 +470,7 @@ height: auto;
 #heading img{
   position: absolute;
   left: 50px;
-  bottom: 825px;
+  bottom: 845px;
   filter: invert(1);
 }
 body.dark-mode #heading img{
